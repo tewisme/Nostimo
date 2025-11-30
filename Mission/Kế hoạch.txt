@@ -1,14 +1,16 @@
 ---Thực Hành 1
 Thứ 6 14/11: Cả nhóm lên thư viện trường để bàn ý tưởng về ứng dụng.
 Thứ 6 21/11: Cả nhóm lên thư viện trường để bàn về Lý do để làm ra ứng dụng. Đề ra các tính năng của ứng dụng.
+	Sau hôm này, chia công việc như sau:
+		1. Nhung làm biểu đồ Gantt.
+		2. Nam và Mạnh làm AOA.
+		3. Hoàng Anh và Bảo Nhi làm AON.
+		4. Toàn làm mạng Găng.
+		5. Mỗi người trong nhóm sẽ đề ra 1 rủi ro.
 Chủ Nhật 23/11: Cả nhóm lên Complex 01 để làm về vấn đề, mô tả về Nostimo; Phương thức và mục tiêu của ứng dụng.
 	Sau hôm này, chia công việc như sau:
-		1. Phước và Nhi làm phương thức và mục tiêu của ứng dụng.
-		2. Nhung làm biểu đồ Gantt.
-		3. Nam và Mạnh làm AOA.
-		4. Hoàng Anh và Bảo Nhi làm AON.
-		5. Toàn làm mạng Găng.
-		6. Mỗi người trong nhóm sẽ đề ra 1 rủi ro.
+		1. Cả nhóm cùng nhau làm về vấn đề xã hội, từ đó giới thiệu ứng dụng Nostimo.
+		2. Phước và Nhi làm phương thức và mục tiêu của ứng dụng.
 ---Thực Hành 2
 Thứ 6 28/11: Cả nhóm lên thư viện trường để chốt logo của ứng dụng và để bàn về những story của bài thực hành 2.
 	Mỗi người trong nhóm đề ra một câu chuyện.
