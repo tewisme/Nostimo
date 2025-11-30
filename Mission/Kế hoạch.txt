@@ -9,4 +9,4 @@ Thứ 6 21/11: Cả nhóm lên thư viện trường để bàn về Lý do đ�
 		5. Toàn làm mạng Găng.
 Chủ Nhật 23/11: Cả nhóm lên Complex 01 để làm về vấn đề, mô tả về Nostimo; Phương thức và mục tiêu của ứng dụng.
 ---Thực Hành 2
-Thứ 6 28/11: Cả nhóm lên thư viện trường để bàn về những story của bài thực hành 2.
+Thứ 6 28/11: Cả nhóm lên thư viện trường để chốt logo của ứng dụng và để bàn về những story của bài thực hành 2.
