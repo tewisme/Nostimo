@@ -14,3 +14,15 @@ Chủ Nhật 23/11: Cả nhóm lên Complex 01 để làm về vấn đề, mô 
 ---Thực Hành 2
 Thứ 6 28/11: Cả nhóm lên thư viện trường để chốt logo của ứng dụng và để bàn về những story của bài thực hành 2.
 	Mỗi người trong nhóm đề ra một câu chuyện.
+Thứ 4 3/12: Phân việc như sau:
+	Vẽ DFD và Use case của các tính năng, câu chuyện:
+		Là người dùng, tôi muốn đăng nhập đăng xuất, để tôi có thể theo dõi người khác và sử dụng trang cá nhân của mình.
+		--Mạnh với Toàn
+		Là người dùng, tôi muốn đăng bài để chia sẻ công thức nấu ăn mà tôi đã nấu kèm hình ảnh minh họa và công thức.
+		--Ynhi với Hanh
+		Là người dùng tôi muốn xem đánh giá của cộng đồng về món ăn để biết công thức có đáng tin hay không.
+		--Bnhi với Nhung
+		Là người dùng, tôi muốn lưu món ăn vào danh sách yêu thích để tôi xem lại nhanh.
+		--Phước với Nam
+		Là người dùng, tôi muốn tìm kiếm công thức món ăn theo yêu cầu để chế biến.
+		--Tài
