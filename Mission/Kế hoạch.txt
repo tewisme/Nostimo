@@ -16,13 +16,8 @@ Thứ 6 28/11: Cả nhóm lên thư viện trường để chốt logo của ứ
 	Mỗi người trong nhóm đề ra một câu chuyện.
 Thứ 4 3/12: Phân việc như sau:
 	Vẽ DFD và Use case của các tính năng, câu chuyện:
-		Là người dùng, tôi muốn đăng nhập đăng xuất, để tôi có thể theo dõi người khác và sử dụng trang cá nhân của mình.
-		--Mạnh với Toàn
-		Là người dùng, tôi muốn đăng bài để chia sẻ công thức nấu ăn mà tôi đã nấu kèm hình ảnh minh họa và công thức.
-		--Ynhi với Hanh
-		Là người dùng tôi muốn xem đánh giá của cộng đồng về món ăn để biết công thức có đáng tin hay không.
-		--Bnhi với Nhung
-		Là người dùng, tôi muốn lưu món ăn vào danh sách yêu thích để tôi xem lại nhanh.
-		--Phước với Nam
-		Là người dùng, tôi muốn tìm kiếm công thức món ăn theo yêu cầu để chế biến.
-		--Tài
+		Bnhi, Nhung: Bình luận và đánh giá, xóa yêu cầu, sửa yêu cầu
+		Ynhi, Hanh: Tìm kiếm món ăn, Gợi ý theo nguyên liệu, gợi ý theo chủ để
+		Phước, Nam: Xem bài đăng, thêm bài đăng, sửa bài đăng
+		Mạnh, Toàn: Đăng ký, đăng nhập, lưu bài viết
+		Tài: Xóa bài đăng, Đổi mật khẩu
