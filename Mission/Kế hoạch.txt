@@ -15,9 +15,15 @@ Chủ Nhật 23/11: Cả nhóm lên Complex 01 để làm về vấn đề, mô 
 Thứ 6 28/11: Cả nhóm lên thư viện trường để chốt logo của ứng dụng và để bàn về những story của bài thực hành 2.
 	Mỗi người trong nhóm đề ra một câu chuyện.
 Thứ 4 3/12: Phân việc như sau:
-	Vẽ DFD và Use case của các tính năng, câu chuyện:
+	Vẽ DFD, Use case và Sd của các tính năng, câu chuyện:
 		Bnhi, Nhung: Bình luận và đánh giá, xóa yêu cầu, sửa yêu cầu
 		Ynhi, Hanh: Tìm kiếm món ăn, Gợi ý theo nguyên liệu, gợi ý theo chủ để
 		Phước, Nam: Xem bài đăng, thêm bài đăng, sửa bài đăng
 		Mạnh, Toàn: Đăng ký, đăng nhập, lưu bài viết
-		Tài: Xóa bài đăng, Đổi mật khẩu
+		Tài: Vẽ các sơ đồ tổng quát, Xóa bài đăng, Đổi mật khẩu
+Thứ 4 10/12: Đã xong DFD, Use case và Sd.
+	Phân việc tiếp:
+		tài: vẽ erd, giúp đỡ các bên thiết kế.
+		Thiết kế Giao diện Người dùng: nhung, ynhi, nam
+		Thiết kế Dữ liệu: mạnh, toàn, fuoc
+		Thiết kế Kiến trúc: bnhi, hanh
