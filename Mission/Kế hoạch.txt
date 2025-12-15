@@ -27,4 +27,4 @@ Thứ 4 10/12: Đã xong DFD, Use case và Sd.
 		Thiết kế Giao diện Người dùng: nhung, ynhi, nam
 		Thiết kế Dữ liệu: mạnh, toàn, fuoc
 		Thiết kế Kiến trúc: bnhi, hanh
-Chủ nhật 14/12: Đã xong các phần thiết kế, nhưng việc code còn 1 ngày nên qá khó, đành dồn hết sức cho thiết kế giao diện
+Chủ nhật 14/12: Đã xong các phần thiết kế, nhưng việc code còn 1 ngày không đủ thời gian, đành dồn hết sức cho thiết kế giao diện
