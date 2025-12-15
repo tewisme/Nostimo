@@ -19,8 +19,8 @@ Thứ 4 3/12: Phân việc như sau:
 		Bnhi, Nhung: Bình luận và đánh giá, xóa yêu cầu, sửa yêu cầu
 		Ynhi, Hanh: Tìm kiếm món ăn, Gợi ý theo nguyên liệu, gợi ý theo chủ để
 		Phước, Nam: Xem bài đăng, thêm bài đăng, sửa bài đăng
-		Mạnh, Toàn: Đăng ký, đăng nhập, lưu bài viết
-		Tài: Vẽ các sơ đồ tổng quát, Xóa bài đăng, Đổi mật khẩu
+		Mạnh, Toàn: Lưu bài viết, Xóa bài đăng, Đổi mật khẩu
+		Tài: Vẽ các sơ đồ tổng quát Đăng ký, đăng nhập
 Thứ 4 10/12: Đã xong DFD, Use case và Sd.
 	Phân việc tiếp:
 		tài: vẽ erd, giúp đỡ các bên thiết kế.
