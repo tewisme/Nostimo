@@ -14,6 +14,7 @@ Chủ Nhật 23/11: Cả nhóm lên Complex 01 để làm về vấn đề, mô 
 ---Thực Hành 2
 Thứ 6 28/11: Cả nhóm lên thư viện trường để chốt logo của ứng dụng và để bàn về những story của bài thực hành 2.
 	Mỗi người trong nhóm đề ra một câu chuyện.
+---Thực Hành 3
 Thứ 4 3/12: Phân việc như sau:
 	Vẽ DFD, Use case và Sd của các tính năng, câu chuyện:
 		Bnhi, Nhung: Bình luận và đánh giá, xóa yêu cầu, sửa yêu cầu
@@ -28,3 +29,15 @@ Thứ 4 10/12: Đã xong DFD, Use case và Sd.
 		Thiết kế Dữ liệu: mạnh, toàn, fuoc
 		Thiết kế Kiến trúc: bnhi, hanh
 Chủ nhật 14/12: Đã xong các phần thiết kế, nhưng việc code còn 1 ngày không đủ thời gian, đành dồn hết sức cho thiết kế giao diện
+---Thực Hành 4
+Thứ 2 15/12: Phân việc như sau:
+	Vẽ DFD, Use case và Sd của các tính năng, câu chuyện:
+		Bnhi: Xác định danh hiệu cho người dùng
+		Hanh: Sao lưu định kỳ dữ liệu
+		Mạnh: Xem số lượng tương tác
+		Phước, Toàn: Kiểm duyệt nội dung
+		Tài: Vẽ các sơ đồ tổng quát
+	Thiết kế:
+		Giao diện: Nhung, Nhi, Nam
+		Kiến trúc:
+		Dữ liệu:
