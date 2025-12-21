@@ -33,11 +33,14 @@ Chủ nhật 14/12: Đã xong các phần thiết kế, nhưng việc code còn 
 Thứ 2 15/12: Phân việc như sau:
 	Vẽ DFD, Use case và Sd của các tính năng, câu chuyện:
 		Bnhi: Xác định danh hiệu cho người dùng
-		Hanh: Sao lưu định kỳ dữ liệu
-		Mạnh: Xem số lượng tương tác
-		Phước, Toàn: Kiểm duyệt nội dung
-		Tài: Vẽ các sơ đồ tổng quát
+		Hanh: DFD, SD Sao lưu định kỳ dữ liệu; Use Case, SD Sao lưu dữ liệu
+		Mạnh: DFD, SD Xem số lượng tương tác
+		Phước, Toàn: DFD, SD Kiểm duyệt nội dung
+		Ynhi: Use Case Xem số lượng tương tác
+		Nhung: Use Case Sao lưu định kỳ dữ liệu
+		Nam: Use Case SD Kiểm duyệt nội dung
+		Tài: DFD Sao lưu dữ liệu, Vẽ các sơ đồ tổng quát
 	Thiết kế:
-		Giao diện: Nhung, Nhi, Nam
-		Kiến trúc:
-		Dữ liệu:
+		Giao diện: Nhung, Ynhi, Nam, Tài
+		Kiến trúc: Hanh, Bnhi
+		Dữ liệu: Mạnh, Phước, Toàn
